@@ -1,0 +1,4 @@
+pandas==2.2.3
+py_clob_client==0.17.5
+Requests==2.32.3
+requests_cache==1.2.1
